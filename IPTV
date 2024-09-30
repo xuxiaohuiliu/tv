@@ -69,7 +69,6 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/000000010000000
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 本地频道,#genre#
-荆州公共频道,https://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
 荆州新闻综合,https://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
 荆州垄上频道,https://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
@@ -77,10 +76,6 @@ CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 湖北公共,http://www.furymax.top:85/rtp/239.69.1.40:9880
 湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
 湖北综合,http://www.furymax.top:85/rtp/239.69.1.42:9892
-湖北垄上,http://www.furymax.top:85/rtp/239.69.1.43:9898
-湖北影视,http://www.furymax.top:85/rtp/239.69.1.204:10866
-湖北生活,http://www.furymax.top:85/rtp/239.69.1.205:10872
-湖北教育,http://www.furymax.top:85/rtp/239.69.1.206:10878
 
 卫视频道,#genre#
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
